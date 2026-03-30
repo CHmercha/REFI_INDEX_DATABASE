@@ -1,0 +1,19 @@
+*company_CAP : market capitalization of each company
+
+*company_FI : the initial weight assigned to each company
+
+*company_min : the minimum weight allowed for each company (set at 5%)
+
+*sum_of_weights : the sum of all minimum weights
+
+*REMAIN : the remaining total weight that will be redistributed according to the adjusted weighting of individual companies
+
+*company_adjusted : the adjusted weights
+
+*INDEX_Value_in_EU : the new REFI index capitalization (in euros)
+
+*company_number : the number of shares for each company
+
+*company_ajust_number : the number of shares for each company after the dividend adjustment
+
+*price : the price of one REFI share
